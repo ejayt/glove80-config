@@ -15,9 +15,10 @@
 
 // layers
 #define DEFAULT 0
-#define LOWER 1
-#define MAGIC 2
-#define FACTORY_TEST 3
+#define COLEMAK_DH 1
+#define LOWER 2
+#define MAGIC 3
+#define FACTORY_TEST 4
 
 / {
     behaviors {
